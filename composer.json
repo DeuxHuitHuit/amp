@@ -1,0 +1,16 @@
+{
+    "name": "deuxhuithuit/amp",
+    "description": "AMP support for Symphony CMS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deux Huit Huit",
+            "email": "open-source@deuxhuithuit.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "lullabot/amp": "^1.1"
+    }
+}

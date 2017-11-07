@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="amp" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>AMP</name>
+	<description>
+		Transforms html into amp-html via a simple wrapper around [Lullabot/amp-library](https://github.com/Lullabot/amp-library)
+	</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/amp</repo>
+	<url type="issues">https://github.com/DeuxHuitHuit/amp/issues</url>
+	<types>
+		<type>AMP</type>
+		<type>Accelerated Mobile Pages</type>
+		<type>Mobile</type>
+		<type>Third Party Integration</type>
+	</types>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2017-10-31" min="2.7.0" max="2.x.x">
+			- First release
+		</release>
+	</releases>
+</extension>
